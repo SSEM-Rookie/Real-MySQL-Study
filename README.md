@@ -1,4 +1,4 @@
-<img src="https://github.com/DeveloperAcademy-POSTECH/MC2-Team11-EZ/assets/20789760/e2a1d5cf-e28e-4315-bc70-29245f86d8cb" />
+<p align="center"><img src="https://github.com/DeveloperAcademy-POSTECH/MC2-Team11-EZ/assets/20789760/e2a1d5cf-e28e-4315-bc70-29245f86d8cb" /> </p>
 <h3 align="center">SSEM Rookie 스터디</h3>
 <p align="center">Real My SQL를 공부해 보아요</p>
 
