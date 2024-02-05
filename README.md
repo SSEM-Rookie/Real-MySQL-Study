@@ -39,7 +39,7 @@
 
 <h2>👨‍🎨 Authors</h2>
 
-|[ 제이든 ](https://github.com)|[ 크리스 ](https://github.com)|[ 노아 ](https://github.com)
+|[ 제이든 ](https://github.com)|[ 루카스 ](https://github.com)|[ 노아 ](https://github.com)
 |:---:|:---:|:---:|
 | <img width=200px src="https://user-images.githubusercontent.com/20789760/235421605-88c06903-ed11-4e18-a66f-681122554acd.png"/> | <img width=200px src="https://user-images.githubusercontent.com/20789760/235421653-9ddce3cc-4294-4f24-992b-ac88ed914700.jpg"/> | <img width=200px src="https://user-images.githubusercontent.com/20789760/235421794-e7bb55c6-833b-447d-b1d2-63fbffcc73c0.jpeg"/> |
 |<center>Nullee Rookie</center>|<center>Nullee Rookie</center>|<center>Nullee Rookie</center>|
